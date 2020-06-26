@@ -1,0 +1,12 @@
+{
+  "params":{
+    "local_server":"True",
+    "local_uri": "mysql+pymysql://root:@localhost/Funnyblogs",
+    "prod_uri": "mysql+pymysql://root:@localhost/Funnyblogs",
+    "fb_url": "https://facebook.com/Funnyblogs",
+    "tw_url": "https://twitter.com/Funnyblogs",
+    "gh_url": "https://github.com/goodatnothin",
+    "blog_name": "Funny Blogs"
+  }
+
+}
